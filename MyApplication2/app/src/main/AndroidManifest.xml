@@ -10,9 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
 
-
         <activity
-            android:name=".Bt3"
+            android:name=".ptb2"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
